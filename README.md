@@ -15,7 +15,7 @@ A MapleStory v83 private server — pre-Big Bang nostalgia.
 |---|---|
 | **Version** | v83 (Pre-Big Bang) |
 | **Rates** | 3x EXP / 2x Meso / 3x Drop / 5x Boss |
-| **Quests** | 1x (Vanilla) |
+| **Quests** | 1x (Vanilla) — +1 fame per quest completed |
 | **Multi-client** | Unlimited |
 | **Classes** | All v83 explorers |
 

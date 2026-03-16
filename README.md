@@ -1,4 +1,4 @@
-# MapleSky
+# MapleStory
 
 A MapleStory v83 private server — pre-Big Bang nostalgia.
 
